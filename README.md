@@ -1,6 +1,6 @@
 # Определение стоимости автомобилей по VIN.
 
-[ipynb](https://github.com/AndreySysa/car_price_prediction/blob/master/Определение%20стоимости%20автомобиля%20по%20VIN.ipynb)[^1]
+[VIN-стоимость](https://github.com/AndreySysa/car_price_prediction/blob/master/Определение%20стоимости%20автомобиля%20по%20VIN.ipynb)[^1]
 
 Перед нами стояла задача: 
 - Разработка системы рекомендации стоимости автомобиля на основе его VIN номера.
@@ -32,5 +32,5 @@
 
 
 [^1]:Для корректного просмотра Jupyter notebook с работающим содержанием, пожалуйста, используйте следующую ссылку:
-[Определение стоимости автомобилей](https://nbviewer.jupyter.org/github/AndreySysa/car_price_prediction/blob/master/Определение%20стоимости%20автомобиля%20по%20VIN.ipynb)
+[Определение стоимости автомобилей по VIN](https://nbviewer.jupyter.org/github/AndreySysa/car_price_prediction/blob/master/Определение%20стоимости%20автомобиля%20по%20VIN.ipynb)
 Просто кликните на ссылку, и nbviewer отобразит notebook с интерактивными ссылками.
